@@ -1,0 +1,5 @@
+get_funcs.pl : generate header and info files from all xc functional c files.
+get_references.pl : load references
+maple2c.pl : perl script to transform maple source codes to C codes. Two module packages are needed, e.g., maple2c_work.pm and maple2c_derivativates.pm
+    Note: using 'chemtools' env to debug
+math_deorbitalize.pl : useless
